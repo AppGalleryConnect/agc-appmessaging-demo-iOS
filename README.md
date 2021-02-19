@@ -1,6 +1,6 @@
 ## appmessaging quickstart
 
-English | [中文](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Guides/agc-appmessage-introduction-0000001071884501)
+English | [中文](https://github.com/AppGalleryConnect/agc-appmessaging-demo-iOS/blob/master/README_ZH.md)
 
 ## Table of Contents
 
